@@ -1,0 +1,2 @@
+# Minesweeper
+Minesweeper's rules.
